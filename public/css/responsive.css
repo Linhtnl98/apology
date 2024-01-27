@@ -1,5 +1,5 @@
 /* Mobile */
-@media (max-width: 740px) {
+@media (max-width: 900px) {
 
     #begin {
         margin-top: 205px;
@@ -7,5 +7,25 @@
 
     div {
         display: inline;
+    }
+
+    .txtcolor {
+        margin-top: 85px;
+    }
+
+    .boy {
+        transform: translate(-81px, 10px);
+    }
+
+    .girl {
+        transform: translate(-18px, -24px);
+    }
+
+    .svg-inline--fa {
+        transform: translate(-14px, 10px);
+    }
+    
+    .abc {
+        display: none;
     }
 }
