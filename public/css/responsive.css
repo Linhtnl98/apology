@@ -20,10 +20,6 @@
     .girl {
         transform: translate(-18px, -24px);
     }
-
-    .svg-inline--fa {
-        transform: translate(-14px, 10px);
-    }
     
     .abc {
         display: none;
