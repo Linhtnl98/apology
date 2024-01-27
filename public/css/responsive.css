@@ -1,0 +1,11 @@
+/* Mobile */
+@media (max-width: 740px) {
+
+    #begin {
+        margin-top: 205px;
+    }
+
+    div {
+        display: inline;
+    }
+}
