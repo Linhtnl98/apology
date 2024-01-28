@@ -24,4 +24,8 @@
     .abc {
         display: none;
     }
+
+    #playButton {
+        transform: translate(193px, 0);
+    }
 }
